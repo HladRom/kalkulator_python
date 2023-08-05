@@ -10,4 +10,4 @@ elif C == '/':
  Suma = A/B
 elif C == '*':
  Suma = A*B
-print ('Сума:', Suma)
+print ('Sum:', Suma)
