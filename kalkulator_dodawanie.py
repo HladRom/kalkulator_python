@@ -1,7 +1,7 @@
-print ('Введіть данні:')
-A = int(input('Введи числа:'))
-C = input('Введи дію:')
-B = int(input('Введи числа:'))
+print ('Enter the data:')
+A = int(input('Enter number:'))
+C = input('Enter action:')
+B = int(input('Enter number:'))
 if C == '+':
  Suma = A+B
 elif C == '-':
