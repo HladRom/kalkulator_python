@@ -1,6 +1,4 @@
-a = float(input("Add namber: "))
-if a == 5:
-    print ("true")
-else:
-    print("folse")
-print ("the end")
+a = int(input ("Enter number 1:"))
+b = int(input("Enter number 2:"))
+c = a+b
+print ("Sum:" , c)
