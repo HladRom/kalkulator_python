@@ -8,3 +8,4 @@
 #calculate the sum of two numbers
 #arithmetic average
 #open firefox
+#tetst simpleprogram(for,def,lambda)
