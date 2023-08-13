@@ -7,4 +7,4 @@
 #transfer the temperature
 #calculate the sum of two numbers
 #arithmetic average
-#
+#open firefox
