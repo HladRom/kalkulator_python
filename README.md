@@ -9,3 +9,4 @@
 #arithmetic average
 #open firefox
 #tetst simpleprogram(for,def,lambda)
+#next test
