@@ -7,6 +7,6 @@
 #transfer the temperature
 #calculate the sum of two numbers
 #arithmetic average
-#open firefox
+#open firefox test
 #tetst simpleprogram(for,def,lambda)
 #next test
