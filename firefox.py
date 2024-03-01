@@ -1,5 +1,4 @@
 #python
-
 import subprocess
 
 def open_firefox():
