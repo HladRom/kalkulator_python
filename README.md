@@ -7,6 +7,7 @@
 __
 - and something else like: :star:
 - transfer the temperature :star:
+- Performs temperature conversion between different scales (for example, Celsius to Fahrenheit or vice versa).
 - calculate the sum of two numbers :star:
 - arithmetic average :star:
 - open firefox test :star: :star: :star:
