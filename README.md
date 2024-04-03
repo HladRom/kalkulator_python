@@ -1,7 +1,7 @@
 # kalkulator_python 
 - kalkulator3(function) :star: :star:
 - kalkulator2(loop for) :star: :star:
-- Title: Multiplication Table Generator
+Title: Multiplication Table Generator
 
 Description:
 This program generates a multiplication table for a given number entered by the user. It prompts the user to input a number, then it iterates through the numbers from 1 to 10 and prints the multiplication table for the entered number.
@@ -18,7 +18,7 @@ This code allows users to quickly generate multiplication tables for any given n
 
 - kalkulator1() :star:
   
-  Description:
+Description:
 This code is a simple calculator written in the Python programming language. The user inputs numbers and the operation they want to perform (+, -, *, /), and the program calculates the result.
 
 Key Points:
