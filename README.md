@@ -4,6 +4,7 @@
 - This program contains a for loop for processing data or performing certain operations within the loop. It may be more general than the version kalkulator3 but still has enough functionality.
 
 - kalkulator1() :star:
+  
   Description:
 This code is a simple calculator written in the Python programming language. The user inputs numbers and the operation they want to perform (+, -, *, /), and the program calculates the result.
 
