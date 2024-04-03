@@ -1,6 +1,7 @@
 # kalkulator_python 
 - kalkulator3(function) :star: :star:
 - kalkulator2(loop for) :star: :star:
+  
 Title: Multiplication Table Generator
 
 Description:
