@@ -1,7 +1,20 @@
 # kalkulator_python 
 - kalkulator3(function) :star: :star:
 - kalkulator2(loop for) :star: :star:
-- This program contains a for loop for processing data or performing certain operations within the loop. It may be more general than the version kalkulator3 but still has enough functionality.
+- Title: Multiplication Table Generator
+
+Description:
+This program generates a multiplication table for a given number entered by the user. It prompts the user to input a number, then it iterates through the numbers from 1 to 10 and prints the multiplication table for the entered number.
+
+Key Points:
+
+Data Input: The user inputs a single number via the console.
+Multiplication Table Generation: The program generates a multiplication table for the entered number by iterating from 1 to 10.
+Computing Results: For each iteration, the program calculates the result of multiplying the entered number by the current iteration number.
+Result Output: The program outputs each multiplication operation in the format: "number x iteration = result".
+This code allows users to quickly generate multiplication tables for any given number, aiding in mathematical calculations and educational purposes.
+
+
 
 - kalkulator1() :star:
   
