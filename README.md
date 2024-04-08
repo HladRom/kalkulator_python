@@ -1,5 +1,20 @@
 # kalkulator_python 
 - kalkulator3(function) :star: :star:
+
+  This program is a simple calculator with basic arithmetic operations. It offers the user to choose an operation (addition, subtraction, multiplication, or division), inputs two numbers, and returns the result of the selected operation.
+
+The program has the following interface:
+
+Displays the text "Select an option:".
+Presents options to choose the operation: addition, subtraction, multiplication, or division.
+The user selects an option by entering the corresponding number (1, 2, 3, or 4).
+The user inputs two numbers.
+The program calculates the result according to the selected operation.
+If the user chooses the division operation, the program checks if the second number is not zero (to avoid division by zero error).
+If the second number is zero, the program displays a message about the impossibility of division by zero and terminates execution.
+If the entered operation choice is not valid (i.e., not 1, 2, 3, or 4), the program displays a message about the wrong choice and terminates execution.
+After computing the result, the program displays it on the screen.
+This program can be useful as an educational tool for learning basic programming principles or as part of a more complex system requiring calculations.
 - kalkulator2(loop for) :star: :star:
   
 Title: Multiplication Table Generator
