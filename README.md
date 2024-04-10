@@ -1,4 +1,5 @@
 # kalkulator_python 
+
 - kalkulator3(function) :star: :star:
 
   This program is a simple calculator with basic arithmetic operations. It offers the user to choose an operation (addition, subtraction, multiplication, or division), inputs two numbers, and returns the result of the selected operation.
@@ -15,6 +16,7 @@ If the second number is zero, the program displays a message about the impossibi
 If the entered operation choice is not valid (i.e., not 1, 2, 3, or 4), the program displays a message about the wrong choice and terminates execution.
 After computing the result, the program displays it on the screen.
 This program can be useful as an educational tool for learning basic programming principles or as part of a more complex system requiring calculations.
+
 - kalkulator2(loop for) :star: :star:
   
 Title: Multiplication Table Generator
@@ -50,10 +52,9 @@ Program computes: Suma = 5 + 3 = 8
 Program outputs: "Sum: 8"
 This code demonstrates a simple yet effective way of creating a calculator using the Python programming language.
 __
-- and something else like: :star:
+- and something else like:
 - transfer the temperature :star:
 - Performs temperature conversion between different scales (for example, Celsius to Fahrenheit or vice versa).
-  
 - calculate the sum of two numbers :star:
 - arithmetic average :star:
 - open firefox test :star: :star: :star:
