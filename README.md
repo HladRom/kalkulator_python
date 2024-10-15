@@ -2,7 +2,6 @@
 
 
 
-
 - kalkulator3(function) :star: :star:
 
   This program is a simple calculator with basic arithmetic operations. It offers the user to choose an operation (addition, subtraction, multiplication, or division), inputs two numbers, and returns the result of the selected operation.
