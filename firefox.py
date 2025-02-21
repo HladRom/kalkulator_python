@@ -3,9 +3,9 @@ import subprocess
 
 def open_firefox():
     try:
-        subprocess.run(['firefox']) #This line attempts to run the Firefox application using the subprocess.run() function. It passes a list containing the command to run Firefox.
+        subprocess.run(['firefox'])
     except FileNotFoundError:
-        print("Будь ласка, встановіть Firefox на своїй системі!")
+        print("install Firefox!")
 
 if __name__ == "__main__":
     open_firefox()
